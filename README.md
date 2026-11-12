@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Afeefa 👋
 
-<!--
-**Afeefa-Zareen-Khan/AFEEFA-ZAREEN-KHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI/ML) student at DDU Gorakhpur University.
 
-Here are some ideas to get you started:
+## What I'm doing
+- 🐍 Building my foundation in Python
+- 📊 Learning data analysis (NumPy, Pandas) and machine learning
+- 🧠 Practicing DSA to improve problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **to_do_list**: a task manager in Python
+- **prime-factors_check**: CLI tool for primes and factors with error handling
+- **Countdown-timer**: real-time countdown in min:sec format
+- **words-count**: counts words, lines, and characters in a file
+
+## Next up
+- First data analysis project (Pandas + Matplotlib)
+- First machine learning model with scikit-learn
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/afeefa-zareen-khan/)
